@@ -1,6 +1,6 @@
 {
   "name": "legacy-ember-css-transitions",
-  "version": "0.1.16",
+  "version": "0.2.1",
   "description": "Fork of ember-css-transitions to help an app transition from mixin approach to modifier approach.",
   "keywords": [
     "ember-addon",
