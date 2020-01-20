@@ -1,12 +1,12 @@
 {
-  "name": "ember-css-transitions",
+  "name": "legacy-ember-css-transitions",
   "version": "0.1.16",
-  "description": "Ember implementation of CSS Transitions. Just like ng-animate and react animation but for Ember.",
+  "description": "Fork of ember-css-transitions to help an app transition from mixin approach to modifier approach.",
   "keywords": [
     "ember-addon",
     "animation"
   ],
-  "repository": "https://github.com/peec/ember-css-transitions",
+  "repository": "https://github.com/yapplabs/legacy-ember-css-transitions",
   "license": "MIT",
   "author": "Petter Kjelkenes <kjelkenes@gmail.com>",
   "directories": {
@@ -62,8 +62,6 @@
     "node": "6.* || 8.* || >= 10.*"
   },
   "ember-addon": {
-    "configPath": "tests/dummy/config",
-    "demoURL": "http://peec.github.io/ember-css-transitions/"
-  },
-  "homepage": "https://peec.github.io/ember-css-transitions"
+    "configPath": "tests/dummy/config"
+  }
 }

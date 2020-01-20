@@ -5,7 +5,7 @@ A mixin is also provided so you can make your own component animatable.
 The mixin can be imported using:
 
 ```js
-import TransitionMixin from 'ember-css-transitions/mixins/transition-mixin';
+import TransitionMixin from 'legacy-ember-css-transitions/mixins/transition-mixin';
 ```
 
 Here is an example of a custom component that uses this Mixin:

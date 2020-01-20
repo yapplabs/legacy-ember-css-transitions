@@ -1,6 +1,6 @@
 # About
 
-`ember-css-transitions` provides some utilities that help you define animations purely in CSS.
+`legacy-ember-css-transitions` provides some utilities that help you define animations purely in CSS.
 
 This can be thought of a port of angular's ng-animate or react-animation for Ember.
 

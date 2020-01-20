@@ -1,1 +1,1 @@
-export { default } from 'ember-css-transitions/components/transition-group';
+export { default } from 'legacy-ember-css-transitions/components/transition-group';
